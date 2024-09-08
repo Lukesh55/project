@@ -1,0 +1,12 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "The weather app called **Weather in** designed with HTML, CSS, Bootstrap and Javascript for educational purposes. That's all you need to know.",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
